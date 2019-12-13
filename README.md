@@ -12,6 +12,8 @@ Credit for inspiration goes to the awesome [Open Product Management](https://git
     - [What is customer success management?](#what-is-customer-success-management)
     - [Becoming a Customer Success Manager](#becoming-a-customer-success-manager)
     - [Measuring customer success](#measuring-customer-success)
+        - [Articles](#articles)
+        - [Presentations](#presentations)
 - [Core 2: Resources](#core-2-resources)
     - [Dedicated software](#dedicated-software)
     - [Books](#books)
@@ -29,3 +31,14 @@ Credit for inspiration goes to the awesome [Open Product Management](https://git
 ## What is customer success management?
 - [ ] [The Definition of Customer Success](https://www.customersuccessassociation.com/library/the-definition-of-customer-success/) - The Customer Success Association
 - [ ] [What Is a Customer Success Manager?](https://hbr.org/2019/11/what-is-a-customer-success-manager) - Andris A. Zoltners, PK Sinha, and Sally E. Lorimer
+- [ ] [The 8 Elements of Customer Success Management](https://sixteenventures.com/elements-customer-success-management) - Lincoln Murphy
+
+## Becoming a Customer Success Manager
+- [ ] [Keys to become a successful customer success manager](https://www.clicdata.com/blog/keys-to-become-a-successful-customer-success-manager/) - Shree Neve
+
+## Measuring customer success
+### Articles
+- [ ] [10 Customer Success KPIs every SaaS company should track](https://customersuccessbox.com/blog/10-customer-success-kpis/) - Nilesh Surana
+### Presentations
+- [ ] [The Secret to Subscription Success](https://access.gainsight.com/20150225-saas-metrics) - Gainsight webinar, discusses churn rate, LTV, CAC, and more
+- [ ] [The Account Behaviour Formula](https://www.csinfocus.com/account-behaviour-formula) - Presentation by Ben Winn at the 2018 [CS100 Conference](http://cs100.clientsuccess.com/) on measuring customer health to improve the churn rate
