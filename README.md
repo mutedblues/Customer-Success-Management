@@ -40,5 +40,9 @@ Credit for inspiration goes to the awesome [Open Product Management](https://git
 ### Articles
 - [ ] [10 Customer Success KPIs every SaaS company should track](https://customersuccessbox.com/blog/10-customer-success-kpis/) - Nilesh Surana
 ### Presentations
-- [ ] [The Secret to Subscription Success](https://access.gainsight.com/20150225-saas-metrics) - Gainsight webinar, discusses churn rate, LTV, CAC, and more
-- [ ] [The Account Behaviour Formula](https://www.csinfocus.com/account-behaviour-formula) - Presentation by Ben Winn at the 2018 [CS100 Conference](http://cs100.clientsuccess.com/) on measuring customer health to improve the churn rate
+- [ ] [The Secret to Subscription Success](https://access.gainsight.com/20150225-saas-metrics) - Gainsight webinar, discusses churn rate, LTV, CAC, and more.
+- [ ] [The Account Behaviour Formula](https://www.csinfocus.com/account-behaviour-formula) - Presentation by Ben Winn at the 2018 [CS100 Conference](http://cs100.clientsuccess.com/) on measuring customer health to improve the churn rate.
+
+# Core 2: Resources
+## Blogs
+- [ ] [Sixteen Ventures](https://sixteenventures.com/)
