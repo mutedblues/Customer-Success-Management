@@ -102,3 +102,6 @@ Credit for inspiration goes to the awesome [Open Product Management](https://git
 ## Communities to join
 ### Associations
 - [ ] [The Customer Success Association](https://www.customersuccessassociation.com/)
+
+### Groups
+- [ ] [OUTCOMES: The Customer Success Community](https://www.customersuccess.community/)
