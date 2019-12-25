@@ -28,6 +28,8 @@ Credit for inspiration goes to the awesome [Open Product Management](https://git
         - [Associations](#associations)
         - [Groups](#groups)
         - [Conferences](#conferences)
+- [Core 4: Careers & hiring](#core-4-careers-&-hiring)
+    - [Interviews](#interviews)
         
 # Core 1: Customer Success Management
 ## What is customer success management?
@@ -105,3 +107,9 @@ Credit for inspiration goes to the awesome [Open Product Management](https://git
 
 ### Groups
 - [ ] [OUTCOMES: The Customer Success Community](https://www.customersuccess.community/)
+- [ ] [Support Driven](https://www.supportdriven.com/register/) - Primarily support focused, however they have a dedicated CSM channel that is becoming more popular.
+
+# Core 4: Careers & hiring
+## Interviews
+- [ ] [The Most Important Traits & Skills To Look For When Hiring a Customer Success Manager](https://customer-success.getamity.com/amity-blog/the-most-important-traits-skills-to-look-for-when-hiring-a-customer-success-manager)
+
