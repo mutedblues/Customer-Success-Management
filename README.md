@@ -16,7 +16,9 @@ Credit for inspiration goes to the awesome [Open Product Management](https://git
         - [Articles](#general-articles)
         - [Presentations](#general-presentations)
         - [ABF](#abf)
+        - [CLV](#clv)
         - [NPS](#nps)
+        - [RFM](#rfm)
     - [Organizing your team](#organizing-your-team)
 - [Core 2: Resources](#core-2-resources)
     - [Dedicated software](#dedicated-software)
@@ -169,7 +171,7 @@ Credit for inspiration goes to the awesome [Open Product Management](https://git
 ### Conferences
 - [ ] [CS100](https://cs100.clientsuccess.com/) - "The Premier Conference for Customer Success Executives & Leaders".
 - [ ] [Customer SuccessCon](https://www.customersuccessassociation.com/customer-successcon-schedule/) - Annual one-day events held in Seattle, Boston, London, Oakland, and Denver.
-- [ ] [Pulse](https://www.gainsight.com/pulse/) - North America and Europe events scheduled annually.
+- [ ] [Pulse](https://www.gainsight.com/pulse/) - Annual events held in North America and Europe.
 
 # Core 4: Joining the team
 ## Interview prep
