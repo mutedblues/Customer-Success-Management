@@ -66,6 +66,7 @@ Credit for inspiration goes to the awesome [Open Product Management](https://git
 ### NPS
 - [ ] [4 NPS Challenges for Customer Success Teams](https://www.clientsuccess.com/blog/4-nps-challenges-for-customer-success-teams/)
 - [ ] [How SaaS Companies Do NPS: Learning from Customer Success at HelloSign and Optimizely](https://www.wootric.com/blog/how-saas-companies-do-nps-learning-from-customer-success-at-hellosign-and-optimizely/)
+- [ ] [How to leverage NPS to build advocacy](https://www.youtube.com/watch?v=CDTXdRPpgjg&feature=youtu.be) - Irit Eizips, Chief Customer Officer & CEO of CSM Practice speaks at SparrowCast.
 - [ ] [A modern approach to measuring and boosting customer loyalty with NPS](https://www.natero.com/nps-customer-success-webinar/) - Webinar presentation by Lisa Abbott at Wootric, goes into detail on [high-touch, medium-touch, and low-touch strategies](http://cloud.skyver.ge/98c49c5c8a8a).
 - [ ] [NPS in SaaS: What You Need To Know About Net Promoter Score](https://useriq.com/blogs/nps-best-practices-improve-saas-customer-success/)
 
@@ -114,9 +115,10 @@ Credit for inspiration goes to the awesome [Open Product Management](https://git
 - [ ] [Sixteen Ventures](https://sixteenventures.com/)
 
 ## Thought leaders
-- [ ] [Alex Bakula-Davis](https://twitter.com/AlexBDavis)
-- [ ] [Irit Eizips](https://twitter.com/iriteizips)
-- [ ] [Lincoln Murphy](https://twitter.com/lincolnmurphy)
+- [ ] [Alex Bakula-Davis](https://twitter.com/AlexBDavis) - Director of Customer Success at Copper Inc.
+- [ ] [Julie Devaney Hogan](https://twitter.com/jalicedev) - VP Customer Success & Services at Drift.
+- [ ] [Irit Eizips](https://twitter.com/iriteizips) - Chief Customer Officer & CEO of CSM Practice.
+- [ ] [Lincoln Murphy](https://twitter.com/lincolnmurphy) -  Founder of Sixteen Ventures, a SaaS Growth Consultancy.
 - [ ] [Guy Nirpaz](https://twitter.com/guynirpaz) - Founder and CEO of Totango.
 
 
