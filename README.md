@@ -11,6 +11,7 @@ Credit for inspiration goes to the awesome [Open Product Management](https://git
 - [Core 1: Customer Success Management](#core-1-customer-success-management)
     - [What is customer success management?](#what-is-customer-success-management)
     - [Becoming a Customer Success Manager](#becoming-a-customer-success-manager)
+    - [Getting the job done](#getting-the-job-done)
     - [Measuring customer success](#measuring-customer-success)
         - [Articles](#general-articles)
         - [Presentations](#general-presentations)
@@ -30,19 +31,27 @@ Credit for inspiration goes to the awesome [Open Product Management](https://git
         - [Conferences](#conferences)
     - [Thought leaders](#thought-leaders)
 - [Core 4: Joining the team](#core-4-joining-the-team)
-    - [Interviews](#interviews)
+    - [Interview prep](#interview-prep)
         
 # Core 1: Customer Success Management
 ## What is customer success management?
-- [ ] [The Definition of Customer Success](https://www.customersuccessassociation.com/library/the-definition-of-customer-success/) - The Customer Success Association
-> Customer Success is a long-term, scientifically engineered, and professionally directed strategy for maximizing customer and company sustainable proven value.
-- [ ] [What Is a Customer Success Manager?](https://hbr.org/2019/11/what-is-a-customer-success-manager) - Andris A. Zoltners, PK Sinha, and Sally E. Lorimer
 - [ ] [The 8 Elements of Customer Success Management](https://sixteenventures.com/elements-customer-success-management) - Lincoln Murphy
 > Customer success is when your customers achieve their desired outcome through their interactions with your company.
-- [ ] [Managing Customer Success to Reduce Churn](https://www.forentrepreneurs.com/customer-success/) - David Skok at [for Entrepreneurs](https://www.forentrepreneurs.com/)
+- [ ] [The Definition of Customer Success](https://www.customersuccessassociation.com/library/the-definition-of-customer-success/) - The Customer Success Association
+> Customer Success is a long-term, scientifically engineered, and professionally directed strategy for maximizing customer and company sustainable proven value.
+- [ ] [The Essential Guide to Customer Success](https://www.gainsight.com/guides/the-essential-guide-to-customer-success/)
+> The business methodology of ensuring customers achieve their desired outcomes while using your product or service. Customer Success is relationship-focused client management, that aligns client and vendor goals for mutually beneficial outcomes. Effective Customer Success strategy typically results in decreased customer churn and increased upsell opportunities.
+- [ ] [What is Customer Success?](https://mindtouch.com/resources/what-is-customer-success) - The Mindtouch Digital Team
+> Customer success encompasses the ongoing efforts of an organization to continue delivering value to its customers. A good customer success program aims to deliver value throughout every step of the customer journey, from pre-purchase to post-sale and beyond. This can include (but isn’t limited to) onboarding, product training, customer service and support.
+- [ ] [Wikipedia: Customer Success](https://en.wikipedia.org/wiki/Customer_success)
+> Customer success is the function at a company responsible for managing the relationship between a vendor and its customers. The goal of customer success is to make the customer as successful as possible, which in turn, improves customer lifetime value (CLTV) for the company.
 
 ## Becoming a Customer Success Manager
 - [ ] [Keys to become a successful customer success manager](https://www.clicdata.com/blog/keys-to-become-a-successful-customer-success-manager/) - Shree Neve
+- [ ] [What Is a Customer Success Manager?](https://hbr.org/2019/11/what-is-a-customer-success-manager) - Andris A. Zoltners, PK Sinha, and Sally E. Lorimer
+
+## Getting the job done
+- [ ] [Managing Customer Success to Reduce Churn](https://www.forentrepreneurs.com/customer-success/) - David Skok at [for Entrepreneurs](https://www.forentrepreneurs.com/)
 
 ## Measuring customer success
 ### General articles
@@ -55,10 +64,10 @@ Credit for inspiration goes to the awesome [Open Product Management](https://git
 - [ ] [The Account Behaviour Formula](https://www.csinfocus.com/account-behaviour-formula) - Presentation by Ben Winn at the 2018 [CS100 Conference](http://cs100.clientsuccess.com/) on measuring customer health to improve the churn rate.
 
 ### NPS
-- [ ] [How SaaS Companies Do NPS: Learning from Customer Success at HelloSign and Optimizely](https://www.wootric.com/blog/how-saas-companies-do-nps-learning-from-customer-success-at-hellosign-and-optimizely/)
 - [ ] [4 NPS Challenges for Customer Success Teams](https://www.clientsuccess.com/blog/4-nps-challenges-for-customer-success-teams/)
-- [ ] [NPS in SaaS: What You Need To Know About Net Promoter Score](https://useriq.com/blogs/nps-best-practices-improve-saas-customer-success/)
+- [ ] [How SaaS Companies Do NPS: Learning from Customer Success at HelloSign and Optimizely](https://www.wootric.com/blog/how-saas-companies-do-nps-learning-from-customer-success-at-hellosign-and-optimizely/)
 - [ ] [A modern approach to measuring and boosting customer loyalty with NPS](https://www.natero.com/nps-customer-success-webinar/) - Webinar presentation by Lisa Abbott at Wootric, goes into detail on [high-touch, medium-touch, and low-touch strategies](http://cloud.skyver.ge/98c49c5c8a8a).
+- [ ] [NPS in SaaS: What You Need To Know About Net Promoter Score](https://useriq.com/blogs/nps-best-practices-improve-saas-customer-success/)
 
 # Core 2: Resources
 ## Dedicated software
@@ -104,10 +113,13 @@ Credit for inspiration goes to the awesome [Open Product Management](https://git
 - [ ] [Sixteen Ventures](https://sixteenventures.com/)
 
 ## Thought leaders
+- [ ] [Alex Bakula-Davis]()
 - [ ] [Lincoln Murphy](https://twitter.com/lincolnmurphy)
-- [ ] []()
+
 
 # Core 3: Real life customer success
+## Interviews
+- [ ] [An agile manifesto for customer success – Interview with Todd Eby of Success Hacker](http://customerthink.com/an-agile-manifesto-for-customer-success-interview-with-todd-eby-of-success-hacker/) - A conversation between Adrian Swinscoe, of CustomerThink, and Todd Eby of Success Hacker. "At it’s heart, customer success is about understanding why your customer hired you, what are they attempting to achieve and then doing all that you can to help them achieve that." 
 ## Communities to join
 ### Associations
 - [ ] [The Customer Success Association](https://www.customersuccessassociation.com/)
@@ -117,7 +129,10 @@ Credit for inspiration goes to the awesome [Open Product Management](https://git
 - [ ] [OUTCOMES: The Customer Success Community](https://www.customersuccess.community/) - Active community at nearly 7,000 members and growing. Keep up with the latest news and events, as well as interact/share/learn with others in the field.
 - [ ] [Support Driven](https://www.supportdriven.com/register/) - Primarily support focused, however they have a dedicated CSM channel that is becoming more popular.
 
+### Conferences
+- [ ] [Pulse](https://www.gainsight.com/pulse/) - North America and Europe events scheduled annually.
+
 # Core 4: Joining the team
-## Interviews
+## Interview prep
 - [ ] [The Most Important Traits & Skills To Look For When Hiring a Customer Success Manager](https://customer-success.getamity.com/amity-blog/the-most-important-traits-skills-to-look-for-when-hiring-a-customer-success-manager)
 
