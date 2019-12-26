@@ -106,7 +106,8 @@ Credit for inspiration goes to the awesome [Open Product Management](https://git
 - [ ] [The Customer Success Association](https://www.customersuccessassociation.com/)
 
 ### Groups
-- [ ] [OUTCOMES: The Customer Success Community](https://www.customersuccess.community/)
+- [ ] [The Customer Success Forum](https://www.linkedin.com/groups/1913401/) - LinkedIn group with nearly 36k members.
+- [ ] [OUTCOMES: The Customer Success Community](https://www.customersuccess.community/) - Active community at nearly 7,000 members and growing. Keep up with the latest news and events, as well as interact/share/learn with others in the field.
 - [ ] [Support Driven](https://www.supportdriven.com/register/) - Primarily support focused, however they have a dedicated CSM channel that is becoming more popular.
 
 # Core 4: Joining the team
