@@ -28,14 +28,17 @@ Credit for inspiration goes to the awesome [Open Product Management](https://git
         - [Associations](#associations)
         - [Groups](#groups)
         - [Conferences](#conferences)
+    - [Thought leaders](#thought-leaders)
 - [Core 4: Joining the team](#core-4-joining-the-team)
     - [Interviews](#interviews)
         
 # Core 1: Customer Success Management
 ## What is customer success management?
 - [ ] [The Definition of Customer Success](https://www.customersuccessassociation.com/library/the-definition-of-customer-success/) - The Customer Success Association
+> Customer Success is a long-term, scientifically engineered, and professionally directed strategy for maximizing customer and company sustainable proven value.
 - [ ] [What Is a Customer Success Manager?](https://hbr.org/2019/11/what-is-a-customer-success-manager) - Andris A. Zoltners, PK Sinha, and Sally E. Lorimer
 - [ ] [The 8 Elements of Customer Success Management](https://sixteenventures.com/elements-customer-success-management) - Lincoln Murphy
+> Customer success is when your customers achieve their desired outcome through their interactions with your company.
 - [ ] [Managing Customer Success to Reduce Churn](https://www.forentrepreneurs.com/customer-success/) - David Skok at [for Entrepreneurs](https://www.forentrepreneurs.com/)
 
 ## Becoming a Customer Success Manager
@@ -99,6 +102,10 @@ Credit for inspiration goes to the awesome [Open Product Management](https://git
 - [ ] [CSM Practice](https://www.csmpractice.com/blog/)
 - [ ] [Enlightened Customers](https://enlightenedcustomers.com/)
 - [ ] [Sixteen Ventures](https://sixteenventures.com/)
+
+## Thought leaders
+- [ ] [Lincoln Murphy](https://twitter.com/lincolnmurphy)
+- [ ] []()
 
 # Core 3: Real life customer success
 ## Communities to join
