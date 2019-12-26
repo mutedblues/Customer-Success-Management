@@ -17,11 +17,14 @@ Credit for inspiration goes to the awesome [Open Product Management](https://git
         - [Presentations](#general-presentations)
         - [ABF](#abf)
         - [NPS](#nps)
+    - [Organizing your team](#organizing-your-team)
 - [Core 2: Resources](#core-2-resources)
     - [Dedicated software](#dedicated-software)
     - [Books](#books)
     - [Newsletters](#newsletters)
     - [Blogs](#blogs)
+    - [Podcasts](#podcasts)
+    - [Training](#training)
 - [Core 3: Real life customer success](#core-3-real-life-customer-success)
     - [Interviews](#interviews)
     - [Case studies](#case-studies)
@@ -48,9 +51,11 @@ Credit for inspiration goes to the awesome [Open Product Management](https://git
 
 ## Becoming a Customer Success Manager
 - [ ] [Keys to become a successful customer success manager](https://www.clicdata.com/blog/keys-to-become-a-successful-customer-success-manager/) - Shree Neve
+- [ ] [Understanding the customer success manager role](http://brooke.land/customer-success-manager/) - Brooke Goodbary
 - [ ] [What Is a Customer Success Manager?](https://hbr.org/2019/11/what-is-a-customer-success-manager) - Andris A. Zoltners, PK Sinha, and Sally E. Lorimer
 
 ## Getting the job done
+- [ ] [9 Things Customer Success is Not](https://sixteenventures.com/customer-success-is-not) - Lincoln Murphy
 - [ ] [Managing Customer Success to Reduce Churn](https://www.forentrepreneurs.com/customer-success/) - David Skok at [for Entrepreneurs](https://www.forentrepreneurs.com/)
 
 ## Measuring customer success
@@ -63,12 +68,21 @@ Credit for inspiration goes to the awesome [Open Product Management](https://git
 ### ABF
 - [ ] [The Account Behaviour Formula](https://www.csinfocus.com/account-behaviour-formula) - Presentation by Ben Winn at the 2018 [CS100 Conference](http://cs100.clientsuccess.com/) on measuring customer health to improve the churn rate.
 
+### CLV
+- [ ] [The Only Metric That Matters: Customer Lifetime Value](https://hub.appirio.com/cloud-powered-blog/the-only-metric-that-matters-customer-lifetime-value) - Michael Collins.
+
 ### NPS
 - [ ] [4 NPS Challenges for Customer Success Teams](https://www.clientsuccess.com/blog/4-nps-challenges-for-customer-success-teams/)
 - [ ] [How SaaS Companies Do NPS: Learning from Customer Success at HelloSign and Optimizely](https://www.wootric.com/blog/how-saas-companies-do-nps-learning-from-customer-success-at-hellosign-and-optimizely/)
 - [ ] [How to leverage NPS to build advocacy](https://www.youtube.com/watch?v=CDTXdRPpgjg&feature=youtu.be) - Irit Eizips, Chief Customer Officer & CEO of CSM Practice speaks at SparrowCast.
 - [ ] [A modern approach to measuring and boosting customer loyalty with NPS](https://www.natero.com/nps-customer-success-webinar/) - Webinar presentation by Lisa Abbott at Wootric, goes into detail on [high-touch, medium-touch, and low-touch strategies](http://cloud.skyver.ge/98c49c5c8a8a).
 - [ ] [NPS in SaaS: What You Need To Know About Net Promoter Score](https://useriq.com/blogs/nps-best-practices-improve-saas-customer-success/)
+
+### RFM
+- [ ] [Bringing a Paradigm Shift to Customer Lifecycle Management with RFM](https://clevertap.com/blog/bringing-a-paradigm-shift-to-customer-lifecycle-management-with-rfm/) - Sunil Thomas.
+
+## Organizing your team
+- [ ] [SaaS Role Definitions](https://winningbydesign.com/saas-role-definitions/) - Sari Eisendrath at Winning by Design, proposes a "bow-tie" model for developing roles within the marketing, sales, and customer success teams.
 
 # Core 2: Resources
 ## Dedicated software
@@ -88,6 +102,7 @@ Credit for inspiration goes to the awesome [Open Product Management](https://git
 ## Books
 - [ ] [Chief Customer Officer 2.0: How to Build Your Customer-Driven Growth Engine](https://www.amazon.com/Chief-Customer-Officer-2-0-Customer-Driven/dp/1119047609/) - Jeanne Bliss
 - [ ] [Customer Success: How Innovative Companies Are Reducing Churn and Growing Recurring Revenue](https://www.amazon.com/Customer-Success-Innovative-Companies-Recurring/dp/1119167965) - Nick Mehta (CEO of Gainsight), Dan Steinman, and Lincoln Murphy
+- [ ] [Delivering Happiness: A Path to Profits, Passion, and Purpose](https://www.amazon.com/gp/product/0446576220/) - Tony Hsieh, CEO of Zappos.com
 - [ ] [The Effortless Experience: Conquering the New Battleground for Customer Loyalty](https://www.amazon.com/Effortless-Experience-Conquering-Battleground-Customer/dp/1591845815) - Matthew Dixon, Nick Toman, Rick DeLisi
 - [ ] [Farm Don’t Hunt: The Definitive Guide to Customer Success](https://www.amazon.com/Farm-Dont-Hunt-Definitive-Customer/dp/0692620931) - Guy Nirpaz, Fernando Pizarro
 - [ ] [From Impossible to Inevitable](https://www.amazon.com/Impossible-Inevitable-Hyper-Growth-Companies-Predictable/dp/1119166713) - Aaron Ross and Jason Lemkin
@@ -97,7 +112,9 @@ Credit for inspiration goes to the awesome [Open Product Management](https://git
 - [ ] [The Relationship Economy: Building Stronger Customer Connections in the Digital Age](https://www.amazon.com/Relationship-Economy-Building-Stronger-Connections-ebook/dp/B07WNYCDJJ/) - John R. DiJulius III
 - [ ] [The Startup's Guide to Customer Success: How to Champion the Customer at Your Company](https://www.amazon.com/Startups-Guide-Customer-Success-Champion/dp/1641371889/) - Jennifer Chiang
 - [ ] [Subscribed: Why the Subscription Model Will Be Your Company's Future - and What to Do About It](https://www.amazon.com/Subscribed-Subscription-Model-Companys-Future/dp/0525536469/) - Tien Tzuo, Gabe Weisert
+- [ ] [The Ten Principles Behind Great Customer Experiences](https://www.amazon.com/Principles-Behind-Customer-Experiences-Financial-ebook/dp/B00BFSMXGU/) - Matt Watkinson
 - [ ] [The Trusted Advisor](https://www.amazon.com/Trusted-Advisor-David-H-Maister/dp/0743212347) - David H. Maister, Charles H. Green, and Robert M. Galford
+- [ ] [What Customers Crave: How To Create Relevant And Memorable Experiences At Every Touchpoint](https://www.amazon.com/What-Customers-Crave-Experiences-Touchpoint-ebook/dp/B01GW9XH7K/) - Nicholas J. Webb
 - [ ] [Why Customers Leave (and How to Win Them Back): (24 Reasons People are Leaving You for Competitors, and How to Win Them Back*)](https://www.amazon.com/Why-Customers-Leave-Them-Back-ebook/dp/B07JCMQ4MD) - David Avrin
 
 ## Newsletters
@@ -114,12 +131,25 @@ Credit for inspiration goes to the awesome [Open Product Management](https://git
 - [ ] [Enlightened Customers](https://enlightenedcustomers.com/)
 - [ ] [Sixteen Ventures](https://sixteenventures.com/)
 
+## Podcasts
+- [ ] [Customer Strategy Podcast](https://podcast.glideconsultingllc.com/) - Weekly podcast hosted by Nils Vinje, founder of Glide Consulting.
+
+## Training
+- [ ] [CSM Bootcamp](https://www.csmpractice.com/customer-success-bootcamp/) - Offered by CSM Practice.
+
 ## Thought leaders
+- [ ] [Peter Armaly](https://www.linkedin.com/in/peterarmaly/detail/recent-activity/) - Senior Director, Customer Success at Oracle.
 - [ ] [Alex Bakula-Davis](https://twitter.com/AlexBDavis) - Director of Customer Success at Copper Inc.
+- [ ] [Catherine Blackmore](https://www.linkedin.com/in/catherineblackmore/detail/recent-activity/) - Head of SaaS Customer Success at Oracle.
+- [ ] [Mikael Blaisdell](https://www.linkedin.com/in/mikaelblaisdell/detail/recent-activity/) - Executive Director: The Customer Success Association. 
 - [ ] [Julie Devaney Hogan](https://twitter.com/jalicedev) - VP Customer Success & Services at Drift.
+- [ ] [Todd Eby](https://twitter.com/toddceby) - Co-Founder of SuccessHACKER.
 - [ ] [Irit Eizips](https://twitter.com/iriteizips) - Chief Customer Officer & CEO of CSM Practice.
+- [ ] [Brooke Goodbary](https://twitter.com/bgbary) - Customer Success consultant, writer, and expert.
+- [ ] [Kristen Hayer](https://www.linkedin.com/in/kristenhayer/detail/recent-activity/)
 - [ ] [Lincoln Murphy](https://twitter.com/lincolnmurphy) -  Founder of Sixteen Ventures, a SaaS Growth Consultancy.
 - [ ] [Guy Nirpaz](https://twitter.com/guynirpaz) - Founder and CEO of Totango.
+- [ ] [Donna Weber](https://www.linkedin.com/in/donnaweb/) - President of Springboard Solutions Consulting.
 
 
 # Core 3: Real life customer success
@@ -127,14 +157,18 @@ Credit for inspiration goes to the awesome [Open Product Management](https://git
 - [ ] [An agile manifesto for customer success – Interview with Todd Eby of Success Hacker](http://customerthink.com/an-agile-manifesto-for-customer-success-interview-with-todd-eby-of-success-hacker/) - A conversation between Adrian Swinscoe, of CustomerThink, and Todd Eby of Success Hacker. "At it’s heart, customer success is about understanding why your customer hired you, what are they attempting to achieve and then doing all that you can to help them achieve that." 
 ## Communities to join
 ### Associations
-- [ ] [The Customer Success Association](https://www.customersuccessassociation.com/)
+- [ ] [The Customer Success Association](https://www.customersuccessassociation.com/) - The free tier provides access to more "library" materials, with additional paid tiers available.
 
 ### Groups
-- [ ] [The Customer Success Forum](https://www.linkedin.com/groups/1913401/) - LinkedIn group with nearly 36k members.
+- [ ] [The Customer Success Forum](https://www.linkedin.com/groups/1913401/) - Largest online community, with nearly 36k members.
+- [ ] [Customer Success Managers in Action](https://www.linkedin.com/groups/891087/) - LinkedIn group with the goal "to bring together ideas, strategies and tactics from Customer Success professionals around the globe in order to elevate the profession of Customer Success".
 - [ ] [OUTCOMES: The Customer Success Community](https://www.customersuccess.community/) - Active community at nearly 7,000 members and growing. Keep up with the latest news and events, as well as interact/share/learn with others in the field.
+- [ ] [r/CustomerSuccess](https://www.reddit.com/r/CustomerSuccess/) - Subreddit for anyone involved in the fields of Customer Success, Customer Support, Customer Experience, Product Management, etc.
 - [ ] [Support Driven](https://www.supportdriven.com/register/) - Primarily support focused, however they have a dedicated CSM channel that is becoming more popular.
 
 ### Conferences
+- [ ] [CS100](https://cs100.clientsuccess.com/) - "The Premier Conference for Customer Success Executives & Leaders".
+- [ ] [Customer SuccessCon](https://www.customersuccessassociation.com/customer-successcon-schedule/) - Annual one-day events held in Seattle, Boston, London, Oakland, and Denver.
 - [ ] [Pulse](https://www.gainsight.com/pulse/) - North America and Europe events scheduled annually.
 
 # Core 4: Joining the team
