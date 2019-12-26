@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/mutedblues/Customer-Success-Management/master/csm-logo.png">
 
-# Customer-Success-Management
+# Customer Success Management
 ## About
 A curated list of customer success management resources. The goal is to list information that's helpful for defining the role and building your career, understanding the industry, as well as resources for articles, interviews, presentations, books, software, and case studies. This is just the beginning, so I'll continue to add more info here as the project takes shape.
 
