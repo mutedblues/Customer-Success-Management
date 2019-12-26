@@ -39,7 +39,7 @@ Credit for inspiration goes to the awesome [Open Product Management](https://git
 > Customer success is when your customers achieve their desired outcome through their interactions with your company.
 - [ ] [The Definition of Customer Success](https://www.customersuccessassociation.com/library/the-definition-of-customer-success/) - The Customer Success Association
 > Customer Success is a long-term, scientifically engineered, and professionally directed strategy for maximizing customer and company sustainable proven value.
-- [ ] [The Essential Guide to Customer Success](https://www.gainsight.com/guides/the-essential-guide-to-customer-success/)
+- [ ] [The Essential Guide to Customer Success](https://www.gainsight.com/guides/the-essential-guide-to-customer-success/) - Gainsight
 > The business methodology of ensuring customers achieve their desired outcomes while using your product or service. Customer Success is relationship-focused client management, that aligns client and vendor goals for mutually beneficial outcomes. Effective Customer Success strategy typically results in decreased customer churn and increased upsell opportunities.
 - [ ] [What is Customer Success?](https://mindtouch.com/resources/what-is-customer-success) - The Mindtouch Digital Team
 > Customer success encompasses the ongoing efforts of an organization to continue delivering value to its customers. A good customer success program aims to deliver value throughout every step of the customer journey, from pre-purchase to post-sale and beyond. This can include (but isn’t limited to) onboarding, product training, customer service and support.
@@ -109,12 +109,15 @@ Credit for inspiration goes to the awesome [Open Product Management](https://git
 
 ## Blogs
 - [ ] [CSM Practice](https://www.csmpractice.com/blog/)
+- [ ] [CustomerThink](http://customerthink.com/) - "The world's largest online community dedicated to customer-centric business strategy".
 - [ ] [Enlightened Customers](https://enlightenedcustomers.com/)
 - [ ] [Sixteen Ventures](https://sixteenventures.com/)
 
 ## Thought leaders
-- [ ] [Alex Bakula-Davis]()
+- [ ] [Alex Bakula-Davis](https://twitter.com/AlexBDavis)
+- [ ] [Irit Eizips](https://twitter.com/iriteizips)
 - [ ] [Lincoln Murphy](https://twitter.com/lincolnmurphy)
+- [ ] [Guy Nirpaz](https://twitter.com/guynirpaz) - Founder and CEO of Totango.
 
 
 # Core 3: Real life customer success
