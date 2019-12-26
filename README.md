@@ -54,17 +54,18 @@ Credit for inspiration goes to the awesome [Open Product Management](https://git
 > Customer success is the function at a company responsible for managing the relationship between a vendor and its customers. The goal of customer success is to make the customer as successful as possible, which in turn, improves customer lifetime value (CLTV) for the company.
 
 ## Becoming a Customer Success Manager
-- [ ] [Keys to become a successful customer success manager](https://www.clicdata.com/blog/keys-to-become-a-successful-customer-success-manager/) - Shree Neve
-- [ ] [Understanding the customer success manager role](http://brooke.land/customer-success-manager/) - Brooke Goodbary
-- [ ] [What Is a Customer Success Manager?](https://hbr.org/2019/11/what-is-a-customer-success-manager) - Andris A. Zoltners, PK Sinha, and Sally E. Lorimer
+- [ ] [The Essential Guide to Landing Your First Customer Success Job](https://www.saleshacker.com/customer-success-job/) - Todd Eby.
+- [ ] [Keys to become a successful customer success manager](https://www.clicdata.com/blog/keys-to-become-a-successful-customer-success-manager/) - Shree Neve.
+- [ ] [Understanding the customer success manager role](http://brooke.land/customer-success-manager/) - Brooke Goodbary.
+- [ ] [What Is a Customer Success Manager?](https://hbr.org/2019/11/what-is-a-customer-success-manager) - Andris A. Zoltners, PK Sinha, and Sally E. Lorimer.
 
 ## Getting the job done
-- [ ] [9 Things Customer Success is Not](https://sixteenventures.com/customer-success-is-not) - Lincoln Murphy
-- [ ] [Managing Customer Success to Reduce Churn](https://www.forentrepreneurs.com/customer-success/) - David Skok at [for Entrepreneurs](https://www.forentrepreneurs.com/)
+- [ ] [9 Things Customer Success is Not](https://sixteenventures.com/customer-success-is-not) - Lincoln Murphy.
+- [ ] [Managing Customer Success to Reduce Churn](https://www.forentrepreneurs.com/customer-success/) - David Skok at [for Entrepreneurs](https://www.forentrepreneurs.com/).
 
 ## Measuring customer success
 ### General articles
-- [ ] [10 Customer Success KPIs every SaaS company should track](https://customersuccessbox.com/blog/10-customer-success-kpis/) - Nilesh Surana
+- [ ] [10 Customer Success KPIs every SaaS company should track](https://customersuccessbox.com/blog/10-customer-success-kpis/) - Nilesh Surana.
 
 ### General presentations
 - [ ] [The Secret to Subscription Success](https://access.gainsight.com/20150225-saas-metrics) - Gainsight webinar, discusses churn rate, LTV, CAC, and more.
@@ -136,6 +137,7 @@ Credit for inspiration goes to the awesome [Open Product Management](https://git
 - [ ] [Sixteen Ventures](https://sixteenventures.com/)
 
 ## Podcasts
+- [ ] [CHURN.FM](https://www.churn.fm/) - "The podcast for subscription economy pros to learn how the world's fastest growing companies are tackling churn and using retention to fuel their growth." New episodes every Wednesday.
 - [ ] [Customer Strategy Podcast](https://podcast.glideconsultingllc.com/) - Weekly podcast hosted by Nils Vinje, founder of Glide Consulting.
 
 ## Training
