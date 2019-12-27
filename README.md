@@ -22,6 +22,8 @@ Credit for inspiration goes to the awesome [Open Product Management](https://git
         - [NPS](#nps)
         - [RFM](#rfm)
     - [Organizing your team](#organizing-your-team)
+    - [Customer fit](#customer-fit)
+    - [Mapping the customer journey](#mapping-the-customer-journey)
 - [Core 2: Resources](#core-2-resources)
     - [Dedicated software](#dedicated-software)
     - [Books](#books)
@@ -62,6 +64,7 @@ Credit for inspiration goes to the awesome [Open Product Management](https://git
 ## Getting the job done
 - [ ] [9 Things Customer Success is Not](https://sixteenventures.com/customer-success-is-not) - Lincoln Murphy.
 - [ ] [Managing Customer Success to Reduce Churn](https://www.forentrepreneurs.com/customer-success/) - David Skok at [for Entrepreneurs](https://www.forentrepreneurs.com/).
+- [ ] [What Does a Wildly Successful CSM Look Like?](https://www.linkedin.com/pulse/what-does-wildly-successful-csm-look-like-brett-andersen/) - Brett Andersen, the fourth article in a five-part series that helps organizations define the Customer Success Manager role.
 
 ## Measuring customer success
 ### General articles
@@ -88,6 +91,9 @@ Credit for inspiration goes to the awesome [Open Product Management](https://git
 
 ## Organizing your team
 - [ ] [SaaS Role Definitions](https://winningbydesign.com/saas-role-definitions/) - Sari Eisendrath at Winning by Design, proposes a "bow-tie" model for developing roles within the marketing, sales, and customer success teams.
+
+## Customer fit
+- [ ] [How to Identify, Attract, and Nurture Your Ideal Customer](https://mindtouch.com/resources/how-customer-centric-companies-attract-the-perfect-customer) - Brad Smith.
 
 # Core 2: Resources
 ## Dedicated software
@@ -122,6 +128,9 @@ Credit for inspiration goes to the awesome [Open Product Management](https://git
 - [ ] [What Customers Crave: How To Create Relevant And Memorable Experiences At Every Touchpoint](https://www.amazon.com/What-Customers-Crave-Experiences-Touchpoint-ebook/dp/B01GW9XH7K/) - Nicholas J. Webb
 - [ ] [Why Customers Leave (and How to Win Them Back): (24 Reasons People are Leaving You for Competitors, and How to Win Them Back*)](https://www.amazon.com/Why-Customers-Leave-Them-Back-ebook/dp/B07JCMQ4MD) - David Avrin
 
+### Professional development
+- [ ] [The Fast Forward MBA in Project Management](https://www.amazon.com/Fast-Forward-MBA-Project-Management/dp/1119086574) - Eric Verzuh
+
 ## Newsletters
 - [ ] [Akita's Customer Success Newsletter](https://www.akitaapp.com/newsletter)
 - [ ] [ClientSuccess Newsletter](https://www.clientsuccess.com/blog/)
@@ -132,6 +141,7 @@ Credit for inspiration goes to the awesome [Open Product Management](https://git
 
 ## Blogs
 - [ ] [CSM Practice](https://www.csmpractice.com/blog/)
+- [ ] [Customer Bliss](https://www.customerbliss.com/blog/) - Insights from Jeanne Bliss, writer of [Would you do that to your mother?](https://www.customerbliss.com/would-you-do-that-to-your-mother-the-book-experience/)
 - [ ] [CustomerThink](http://customerthink.com/) - "The world's largest online community dedicated to customer-centric business strategy".
 - [ ] [Enlightened Customers](https://enlightenedcustomers.com/)
 - [ ] [Sixteen Ventures](https://sixteenventures.com/)
@@ -139,6 +149,7 @@ Credit for inspiration goes to the awesome [Open Product Management](https://git
 ## Podcasts
 - [ ] [CHURN.FM](https://www.churn.fm/) - "The podcast for subscription economy pros to learn how the world's fastest growing companies are tackling churn and using retention to fuel their growth." New episodes every Wednesday.
 - [ ] [Customer Strategy Podcast](https://podcast.glideconsultingllc.com/) - Weekly podcast hosted by Nils Vinje, founder of Glide Consulting.
+- [ ] [Customer Success Conversations](https://www.customersuccessmanager.com/cs-conversations.html) - Hosted by the founder of CustomerSuccessManager.com, Adam Joseph, he interviews a Customer Success executive in each episode on how to be successful, overcome challenges, and trends influencing the industry.
 
 ## Training
 - [ ] [CSM Bootcamp](https://www.csmpractice.com/customer-success-bootcamp/) - Offered by CSM Practice.
