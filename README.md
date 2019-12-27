@@ -57,6 +57,8 @@ Credit for inspiration goes to the awesome [Open Product Management](https://git
 
 ## Becoming a Customer Success Manager
 - [ ] [The Essential Guide to Landing Your First Customer Success Job](https://www.saleshacker.com/customer-success-job/) - Todd Eby.
+- [ ] [First 90 days in customer success management](https://blog.natero.com/first-90-days-in-customer-success) - Brooke Goodbary.
+- [ ] [How to Start a Customer Success Program from Scratch](https://www.wootric.com/blog/how-to-start-a-customer-success-program-from-scratch/) - Nichole Elizabeth DeMeré.
 - [ ] [Keys to become a successful customer success manager](https://www.clicdata.com/blog/keys-to-become-a-successful-customer-success-manager/) - Shree Neve.
 - [ ] [Understanding the customer success manager role](http://brooke.land/customer-success-manager/) - Brooke Goodbary.
 - [ ] [What Is a Customer Success Manager?](https://hbr.org/2019/11/what-is-a-customer-success-manager) - Andris A. Zoltners, PK Sinha, and Sally E. Lorimer.
@@ -144,6 +146,7 @@ Credit for inspiration goes to the awesome [Open Product Management](https://git
 - [ ] [Customer Bliss](https://www.customerbliss.com/blog/) - Insights from Jeanne Bliss, writer of [Would you do that to your mother?](https://www.customerbliss.com/would-you-do-that-to-your-mother-the-book-experience/)
 - [ ] [CustomerThink](http://customerthink.com/) - "The world's largest online community dedicated to customer-centric business strategy".
 - [ ] [Enlightened Customers](https://enlightenedcustomers.com/)
+- [ ] [Natero's Blog](https://blog.natero.com/)
 - [ ] [Sixteen Ventures](https://sixteenventures.com/)
 
 ## Podcasts
@@ -153,6 +156,7 @@ Credit for inspiration goes to the awesome [Open Product Management](https://git
 
 ## Training
 - [ ] [CSM Bootcamp](https://www.csmpractice.com/customer-success-bootcamp/) - Offered by CSM Practice.
+- [ ] [Tri Tuns](https://trituns.com/customer-success-training/) - Offers training and certification for early career, leaders, and teams.
 
 ## Thought leaders
 - [ ] [Peter Armaly](https://www.linkedin.com/in/peterarmaly/detail/recent-activity/) - Senior Director, Customer Success at Oracle.
