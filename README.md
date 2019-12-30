@@ -24,6 +24,7 @@ Credit for inspiration goes to the awesome [Open Product Management](https://git
     - [Organizing your team](#organizing-your-team)
     - [Customer fit](#customer-fit)
     - [Mapping the customer journey](#mapping-the-customer-journey)
+    - [Onboarding](#onboarding)
 - [Core 2: Resources](#core-2-resources)
     - [Dedicated software](#dedicated-software)
     - [Books](#books)
@@ -96,6 +97,9 @@ Credit for inspiration goes to the awesome [Open Product Management](https://git
 
 ## Customer fit
 - [ ] [How to Identify, Attract, and Nurture Your Ideal Customer](https://mindtouch.com/resources/how-customer-centric-companies-attract-the-perfect-customer) - Brad Smith.
+
+## Onboarding
+- [ ] []()
 
 # Core 2: Resources
 ## Dedicated software
