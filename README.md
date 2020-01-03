@@ -119,6 +119,8 @@ Credit for inspiration goes to the awesome [Open Product Management](https://git
 
 ## Books
 - [ ] [Chief Customer Officer 2.0: How to Build Your Customer-Driven Growth Engine](https://www.amazon.com/Chief-Customer-Officer-2-0-Customer-Driven/dp/1119047609/) - Jeanne Bliss
+- [ ] [A Complaint Is a Gift: Recovering Customer Loyalty When Things Go Wrong](https://www.amazon.com/Complaint-Gift-Recovering-Customer-Loyalty-ebook/dp/B005M0CZV0/) - Janelle Barlow and Claus Møller
+- [ ] [Customer Experience 3.0: High-Profit Strategies in the Age of Techno Service](https://www.amazon.com/Customer-Experience-3-0-High-Profit-Strategies/dp/081443388X/) - John Goodman
 - [ ] [Customer Success: How Innovative Companies Are Reducing Churn and Growing Recurring Revenue](https://www.amazon.com/Customer-Success-Innovative-Companies-Recurring/dp/1119167965) - Nick Mehta (CEO of Gainsight), Dan Steinman, and Lincoln Murphy
 - [ ] [Delivering Happiness: A Path to Profits, Passion, and Purpose](https://www.amazon.com/gp/product/0446576220/) - Tony Hsieh, CEO of Zappos.com
 - [ ] [The Effortless Experience: Conquering the New Battleground for Customer Loyalty](https://www.amazon.com/Effortless-Experience-Conquering-Battleground-Customer/dp/1591845815) - Matthew Dixon, Nick Toman, Rick DeLisi
@@ -130,7 +132,9 @@ Credit for inspiration goes to the awesome [Open Product Management](https://git
 - [ ] [The Relationship Economy: Building Stronger Customer Connections in the Digital Age](https://www.amazon.com/Relationship-Economy-Building-Stronger-Connections-ebook/dp/B07WNYCDJJ/) - John R. DiJulius III
 - [ ] [The Startup's Guide to Customer Success: How to Champion the Customer at Your Company](https://www.amazon.com/Startups-Guide-Customer-Success-Champion/dp/1641371889/) - Jennifer Chiang
 - [ ] [Subscribed: Why the Subscription Model Will Be Your Company's Future - and What to Do About It](https://www.amazon.com/Subscribed-Subscription-Model-Companys-Future/dp/0525536469/) - Tien Tzuo, Gabe Weisert
+- [ ] [Switch: How to Change Things When Change Is Hard](https://www.amazon.com/Switch-Change-Things-When-Hard/dp/B0038NLX9S/) - Dan Heath and Chip Heath
 - [ ] [The Ten Principles Behind Great Customer Experiences](https://www.amazon.com/Principles-Behind-Customer-Experiences-Financial-ebook/dp/B00BFSMXGU/) - Matt Watkinson
+- [ ] [To Sell Is Human: The Surprising Truth About Moving Others](https://www.amazon.com/Sell-Human-Surprising-Moving-Others/dp/1594631905/) - Daniel H. Pink
 - [ ] [The Trusted Advisor](https://www.amazon.com/Trusted-Advisor-David-H-Maister/dp/0743212347) - David H. Maister, Charles H. Green, and Robert M. Galford
 - [ ] [What Customers Crave: How To Create Relevant And Memorable Experiences At Every Touchpoint](https://www.amazon.com/What-Customers-Crave-Experiences-Touchpoint-ebook/dp/B01GW9XH7K/) - Nicholas J. Webb
 - [ ] [Why Customers Leave (and How to Win Them Back): (24 Reasons People are Leaving You for Competitors, and How to Win Them Back*)](https://www.amazon.com/Why-Customers-Leave-Them-Back-ebook/dp/B07JCMQ4MD) - David Avrin
