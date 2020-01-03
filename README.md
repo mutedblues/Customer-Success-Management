@@ -66,6 +66,7 @@ Credit for inspiration goes to the awesome [Open Product Management](https://git
 
 ## Getting the job done
 - [ ] [9 Things Customer Success is Not](https://sixteenventures.com/customer-success-is-not) - Lincoln Murphy.
+- [ ] [How a Single-Page Success Plan Produced Big Customer Value](https://successcoaching.co/blog/2019/1/19/single-page-success-plan) - Chad Jasmin.
 - [ ] [Managing Customer Success to Reduce Churn](https://www.forentrepreneurs.com/customer-success/) - David Skok at [for Entrepreneurs](https://www.forentrepreneurs.com/).
 - [ ] [What Does a Wildly Successful CSM Look Like?](https://www.linkedin.com/pulse/what-does-wildly-successful-csm-look-like-brett-andersen/) - Brett Andersen, the fourth article in a five-part series that helps organizations define the Customer Success Manager role.
 
