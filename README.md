@@ -66,6 +66,7 @@ Credit for inspiration goes to the awesome [Open Product Management](https://git
 
 ## Getting the job done
 - [ ] [9 Things Customer Success is Not](https://sixteenventures.com/customer-success-is-not) - Lincoln Murphy.
+- [ ] [Customer Success: Nearly everything you need to know](https://www.typeform.com/blog/guides/customer-success/) - Eric Johnson.
 - [ ] [How a Single-Page Success Plan Produced Big Customer Value](https://successcoaching.co/blog/2019/1/19/single-page-success-plan) - Chad Jasmin.
 - [ ] [Managing Customer Success to Reduce Churn](https://www.forentrepreneurs.com/customer-success/) - David Skok at [for Entrepreneurs](https://www.forentrepreneurs.com/).
 - [ ] [What Does a Wildly Successful CSM Look Like?](https://www.linkedin.com/pulse/what-does-wildly-successful-csm-look-like-brett-andersen/) - Brett Andersen, the fourth article in a five-part series that helps organizations define the Customer Success Manager role.
@@ -97,6 +98,7 @@ Credit for inspiration goes to the awesome [Open Product Management](https://git
 - [ ] [SaaS Role Definitions](https://winningbydesign.com/saas-role-definitions/) - Sari Eisendrath at Winning by Design, proposes a "bow-tie" model for developing roles within the marketing, sales, and customer success teams.
 
 ## Customer fit
+- [ ] [A B2B Startup’s Guide to Creating an Ideal Customer Profile (ICP)](https://www.propellercrm.com/blog/ideal-customer-profile-icp)
 - [ ] [How to Identify, Attract, and Nurture Your Ideal Customer](https://mindtouch.com/resources/how-customer-centric-companies-attract-the-perfect-customer) - Brad Smith.
 
 ## Onboarding
