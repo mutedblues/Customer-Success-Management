@@ -102,7 +102,7 @@ Credit for inspiration goes to the awesome [Open Product Management](https://git
 - [ ] [How to Identify, Attract, and Nurture Your Ideal Customer](https://mindtouch.com/resources/how-customer-centric-companies-attract-the-perfect-customer) - Brad Smith.
 
 ## Onboarding
-- [ ] []()
+- [ ] [5 Actionable Tactics to Create Onboarding Emails That Convert](https://www.getcloudapp.com/blog/convert-onboarding-emails) - Irina Maltseva
 
 # Core 2: Resources
 ## Dedicated software
